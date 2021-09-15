@@ -20,7 +20,7 @@ This project is outdated and no longer maintained. Click **[here](https://github
 ![alt text](https://raw.githubusercontent.com/yTakkar/MERN-Social-Network/master/screenshots/Snap%202017-06-27%20at%2021.59.05.png)
 ![alt text](https://raw.githubusercontent.com/yTakkar/MERN-Social-Network/master/screenshots/Snap%202017-07-11%20at%2000.14.08.png)
 
-[More screenshots](https://github.com/yTakkar/MERN-Social-Network/tree/master/screenshots).
+[More screenshots](https://github.com/dragondevmaster/MERN-Social-Network/tree/master/screenshots).
 
 UI is taken from [Instagam-clone](https://github.com/yTakkar/Instagram-Clone) I created!!
 
