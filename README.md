@@ -1,12 +1,8 @@
 # MERN-Social-Network
-A Social Network developed with MERN stack. [OUTDATED]
+A Social Network developed with MERN stack.
 
 # Single Page Application
-This project is outdated and no longer maintained. Click **[here](https://github.com/yTakkar/Single-Page-Social-Network)** for updated & faster version of this project. The updated version is a Single-Page-Application!!
-
-# Quick links
-1. [Screenshots](#screenshots)
-2. [Own the project](#own-the-project)
+This project is outdated and no longer maintained.
 
 # Own the project
 1. First install all dependencies with npm or Yarn:
